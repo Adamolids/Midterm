@@ -11,6 +11,6 @@ package com.mycompany.midterm;
 public class Midterm {
 
     public static void main(String[] args) {
-        System.out.println("Commit Three");
+        System.out.println("rev 4 remote");
     }
 }
